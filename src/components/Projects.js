@@ -7,7 +7,7 @@ function Projects() {
       description:
         'A responsive food ordering UI built with React.js and Tailwind CSS. Features menu browsing, cart management and real-time order tracking via REST APIs.',
       tech: ['React.js', 'Tailwind CSS', 'REST APIs'],
-      github: 'https://github.com/parisha12/food-ordering-app',
+      github: 'https://github.com/parisha12/zestybites',
     },
     {
       title: 'Movie Ticket Booking App',
